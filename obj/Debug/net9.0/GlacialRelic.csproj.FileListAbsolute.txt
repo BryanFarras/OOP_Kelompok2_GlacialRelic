@@ -13,3 +13,18 @@ C:\Users\raiha\Documents\Kuliah\Semester 3\OOP2\Proyek Kuliah\GlacialRelic\Glaci
 C:\Users\raiha\Documents\Kuliah\Semester 3\OOP2\Proyek Kuliah\GlacialRelic\GlacialRelic\obj\Debug\net9.0\GlacialRelic.pdb
 C:\Users\raiha\Documents\Kuliah\Semester 3\OOP2\Proyek Kuliah\GlacialRelic\GlacialRelic\obj\Debug\net9.0\GlacialRelic.genruntimeconfig.cache
 C:\Users\raiha\Documents\Kuliah\Semester 3\OOP2\Proyek Kuliah\GlacialRelic\GlacialRelic\obj\Debug\net9.0\ref\GlacialRelic.dll
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\obj\Debug\net9.0\GlacialRelic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\obj\Debug\net9.0\GlacialRelic.AssemblyInfoInputs.cache
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\obj\Debug\net9.0\GlacialRelic.AssemblyInfo.cs
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\obj\Debug\net9.0\GlacialRelic.csproj.CoreCompileInputs.cache
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\obj\Debug\net9.0\GlacialRelic.sourcelink.json
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\obj\Debug\net9.0\GlacialRelic.dll
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\obj\Debug\net9.0\refint\GlacialRelic.dll
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\obj\Debug\net9.0\GlacialRelic.pdb
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\bin\Debug\net9.0\GlacialRelic.exe
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\bin\Debug\net9.0\GlacialRelic.deps.json
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\bin\Debug\net9.0\GlacialRelic.runtimeconfig.json
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\bin\Debug\net9.0\GlacialRelic.dll
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\bin\Debug\net9.0\GlacialRelic.pdb
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\obj\Debug\net9.0\GlacialRelic.genruntimeconfig.cache
+C:\Users\Kyomoto\OOP_Kelompok2_GlacialRelic\obj\Debug\net9.0\ref\GlacialRelic.dll

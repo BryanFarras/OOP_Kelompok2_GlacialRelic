@@ -10,7 +10,6 @@ public class CombatRegion : Region
         
         while (enemy.HP > 0 && player.HP > 0)
         {
-            player.ApplyDebuffEffects(); // Apply debuff effects at the start of each turn
             Console.WriteLine($"\nEnemy HP: {enemy.HP}");
             player.DisplayStats();
             Console.WriteLine("\nYour Move:");
@@ -88,7 +87,6 @@ public class CombatRegion : Region
             player.Gold += goldReward;
             Console.WriteLine($"You received {goldReward} gold!");
             // Remove all debuffs after defeating the enemy
-            player.ClearDebuffs();
         }
         else
         {

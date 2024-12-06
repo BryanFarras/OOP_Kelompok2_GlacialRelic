@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GlacialRelic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27e8d64ac5888df8ffce4ef33f45bce7037bee67")]
 [assembly: System.Reflection.AssemblyProductAttribute("GlacialRelic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GlacialRelic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

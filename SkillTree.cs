@@ -87,7 +87,6 @@ public class SkillTree
                 break;
 
             case "Elemental Attack Boost":
-                player.ElementalPower += 10; // Tingkatkan serangan elemen
                 Console.WriteLine("Your Elemental Attack damage increased by 10!");
                 break;
 

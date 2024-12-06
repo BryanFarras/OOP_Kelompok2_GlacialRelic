@@ -7,7 +7,7 @@ public class TankEnemy : Enemy
     public override void AttackPlayer(Player player)
     {
         Console.WriteLine($"{Name} attacks you with a crushing blow.");
-        int damage = Math.Max(Attack - player.Defense, 1); // Reducing damage by player defense
+        int damage = Math.Max(Attack - player.AttackPower, 1); // Reducing damage by player defense
         player.HP -= damage;
         Console.WriteLine($"You take {damage} damage!");
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\raiha\\Documents\\Kuliah\\Semester 3\\OOP2\\Proyek Kuliah\\GlacialRelic\\GlacialRelic\\GlacialRelic.csproj": {}
+    "C:\\Users\\Kyomoto\\OOP_Kelompok2_GlacialRelic\\GlacialRelic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\raiha\\Documents\\Kuliah\\Semester 3\\OOP2\\Proyek Kuliah\\GlacialRelic\\GlacialRelic\\GlacialRelic.csproj": {
+    "C:\\Users\\Kyomoto\\OOP_Kelompok2_GlacialRelic\\GlacialRelic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\raiha\\Documents\\Kuliah\\Semester 3\\OOP2\\Proyek Kuliah\\GlacialRelic\\GlacialRelic\\GlacialRelic.csproj",
+        "projectUniqueName": "C:\\Users\\Kyomoto\\OOP_Kelompok2_GlacialRelic\\GlacialRelic.csproj",
         "projectName": "GlacialRelic",
-        "projectPath": "C:\\Users\\raiha\\Documents\\Kuliah\\Semester 3\\OOP2\\Proyek Kuliah\\GlacialRelic\\GlacialRelic\\GlacialRelic.csproj",
-        "packagesPath": "C:\\Users\\raiha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\raiha\\Documents\\Kuliah\\Semester 3\\OOP2\\Proyek Kuliah\\GlacialRelic\\GlacialRelic\\obj\\",
+        "projectPath": "C:\\Users\\Kyomoto\\OOP_Kelompok2_GlacialRelic\\GlacialRelic.csproj",
+        "packagesPath": "C:\\Users\\Kyomoto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kyomoto\\OOP_Kelompok2_GlacialRelic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\raiha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Kyomoto\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -36,7 +36,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
